@@ -1,1 +1,27 @@
-
+{
+    "veiculos": [
+      {
+        "id": 1,
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "ano": 2022,
+        "cor": "Prata",
+        "tipo": "Sedan",
+        "quilometragem": 25000,
+        "portas": 4,
+        "imagem": "https://via.placeholder.com/150"
+      },
+      {
+        "id": 2,
+        "marca": "Honda",
+        "modelo": "Civic",
+        "ano": 2021,
+        "cor": "Preto",
+        "tipo": "Sedan",
+        "quilometragem": 30000,
+        "portas": 4,
+        "imagem": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+  
